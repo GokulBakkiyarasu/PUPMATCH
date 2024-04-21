@@ -1,4 +1,4 @@
-# PUPMatch
+# PUPMATCH
 
 PUPMatch is a frontend project aimed at creating a Tinder-like experience for finding dog matches. It allows users to browse through dog profiles and swipe left or right to indicate interest, just like in the Tinder app.
 
@@ -56,6 +56,9 @@ Contributions to PUPMatch are welcome! If you'd like to contribute, please follo
 3. Make your changes.
 4. Test your changes thoroughly.
 5. Submit a pull request with a clear description of your changes.
+
+## Find me on
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gokul-bakkiyarasu-531535251)
 
 
 ## Acknowledgments
