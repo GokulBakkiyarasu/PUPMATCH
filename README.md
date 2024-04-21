@@ -8,15 +8,15 @@ The goal of PUPMatch is to provide a user-friendly interface for dog lovers to c
 
 ## File Structure
 
-PUPMatch/
-│
-├── images/ # Folder containing images
-│ └── [image files]
-│
-├── css/ # Folder containing CSS files
-│ └── [CSS files]
-│
-└── index.html # Main HTML file
+        PUPMatch/
+        │
+        ├── images/ # Folder containing images
+        │ └── [image files]
+        │
+        ├── css/ # Folder containing CSS files
+        │ └── [CSS files]
+        │
+        └── index.html # Main HTML file
 
 
 ## Getting Started
